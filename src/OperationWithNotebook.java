@@ -90,8 +90,8 @@ public class OperationWithNotebook {
         map.put("name", "Наименование");
         map.put("amountRAM", "Объем оперативной памяти");
         map.put("operatingSystem", "Операционная система");
-        map.put("price", "цена");
-        map.put("model", "модель");
+        map.put("price", "Цена");
+        map.put("model", "Модель");
 
         return map;
 
